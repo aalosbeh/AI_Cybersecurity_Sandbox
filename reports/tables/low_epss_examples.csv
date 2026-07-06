@@ -1,0 +1,9 @@
+CVE,Vendor,Product,Date added,Ransomware flag,EPSS,EPSS percentile,CWE(s)
+CVE-2025-48572,Android,Framework,2025-12-02,Unknown,0.00228,0.13494,
+CVE-2025-48633,Android,Framework,2025-12-02,Unknown,0.00245,0.15598,
+CVE-2023-21237,Android,Pixel,2024-03-05,Unknown,0.00264,0.17808,CWE-200
+CVE-2025-43510,Apple,Multiple Products,2026-03-20,Unknown,0.00348,0.26822,CWE-667
+CVE-2025-21480,Qualcomm,Multiple Chipsets,2025-06-03,Unknown,0.00361,0.28125,CWE-863
+CVE-2025-48928,TeleMessage,TM SGNL,2025-07-01,Unknown,0.00366,0.28616,CWE-528
+CVE-2021-25395,Samsung,Mobile Devices,2023-06-29,Unknown,0.00385,0.30446,CWE-362
+CVE-2022-22265,Samsung,Mobile Devices,2023-09-18,Unknown,0.00392,0.31121,CWE-703

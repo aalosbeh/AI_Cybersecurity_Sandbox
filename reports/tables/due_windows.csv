@@ -1,0 +1,5 @@
+Cohort,Entries,Median due window,Mean due window,Due in <= 3 days,Due in <= 14 days
+All KEV entries,"1,631",21 days,44.3 days,3.3%,21.0%
+Added since 2025-01-01,392,21 days,17.1 days,13.5%,31.1%
+Added since 2026-01-01,147,14 days,12.6 days,31.3%,70.1%
+Added since 2026-06-01,24,3 days,5.8 days,75.0%,100.0%

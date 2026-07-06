@@ -1,0 +1,5 @@
+EPSS threshold,Captured ransomware-linked KEV,Captured share,Missed ransomware-linked KEV,Missed share
+>= 0.10,287,87.5%,41,12.5%
+>= 0.50,226,68.9%,102,31.1%
+>= 0.70,207,63.1%,121,36.9%
+>= 0.90,147,44.8%,181,55.2%

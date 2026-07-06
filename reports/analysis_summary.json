@@ -1,0 +1,33 @@
+{
+  "generated_at_utc": "2026-07-02T22:43:38.212455+00:00",
+  "cisa_kev": {
+    "source": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+    "catalog_version": "2026.07.01",
+    "date_released": "2026-07-01T19:00:06.9016Z",
+    "count": 1631,
+    "observed_rows": 1631,
+    "date_added_min": "2021-11-03",
+    "date_added_max": "2026-07-01"
+  },
+  "epss": {
+    "source": "https://epss.empiricalsecurity.com/epss_scores-current.csv.gz",
+    "model_version": "v2026.06.15",
+    "score_date": "2026-07-02T12:00:26Z",
+    "rows": 345190,
+    "coverage_for_kev": 1.0
+  },
+  "headline_metrics": {
+    "kev_entries": 1631,
+    "epss_coverage": 1.0,
+    "ransomware_known": 328,
+    "ransomware_unknown": 1303,
+    "ransomware_known_share": 0.20110361741263028,
+    "no_cwe": 171,
+    "no_cwe_share": 0.10484365419987737,
+    "epss_median": 0.5432,
+    "epss_p25": 0.1055,
+    "epss_p75": 0.92032,
+    "due_days_median": 21.0,
+    "due_days_mean": 44.283261802575105
+  }
+}

@@ -1,0 +1,9 @@
+CVE,Vendor,Product,Date added,Ransomware flag,EPSS,EPSS percentile,CWE(s)
+CVE-2021-44228,Apache,Log4j2,2021-12-10,Known,0.99999,1.00000,CWE-20; CWE-400; CWE-502
+CVE-2023-35082,Ivanti,Endpoint Manager Mobile (EPMM) and MobileIron Core,2024-01-18,Known,0.99999,0.99996,CWE-287
+CVE-2020-5902,F5,BIG-IP,2021-11-03,Known,0.99999,1.00000,CWE-22
+CVE-2023-1671,Sophos,Web Appliance,2023-11-16,Unknown,0.99999,0.99991,CWE-77
+CVE-2023-22518,Atlassian,Confluence Data Center and Server,2023-11-07,Known,0.99999,0.99996,CWE-863
+CVE-2023-4966,Citrix,NetScaler ADC and NetScaler Gateway,2023-10-18,Known,0.99999,0.99993,CWE-119
+CVE-2023-44487,IETF,HTTP/2,2023-10-10,Unknown,0.99999,0.99996,CWE-400
+CVE-2019-11510,Ivanti,Pulse Connect Secure,2021-11-03,Known,0.99999,0.99995,CWE-22
