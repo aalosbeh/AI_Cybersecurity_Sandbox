@@ -25,9 +25,6 @@ vendor-neutral.
   the LaTeX table fragments, and `paper/summary_macros.tex`.
 - `data/raw/` — public source snapshots (CISA KEV JSON, FIRST EPSS CSV).
 - `data/processed/` — the joined KEV/EPSS dataset.
-- `reports/` — generated analysis outputs and source notes.
-- `paper/` — CCSC LaTeX source, figures, tables, and a compiled preview
-  (`main_preview.pdf`). See `paper/README_OVERLEAF.md`.
 - `PROJECT_INSTRUCTIONS.md` — authoring, submission, data-boundary, and
   release-readiness notes.
 
